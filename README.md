@@ -1,2 +1,2 @@
-# LeetCode
-My LeetCode record
+# Introduction
+My LeetCode records.
