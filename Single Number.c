@@ -14,7 +14,6 @@ int main(void)
 {
     int nums[] = {1};
     int size = sizeof(nums)/sizeof(int);
-    printf("%d",size);
 
     printf("%d\n",singleNumber(nums,size));
 
