@@ -1,2 +1,2 @@
 # Introduction
-My LeetCode records.
+My LeetCode records that coding in windows7 with CodeBlocks.
